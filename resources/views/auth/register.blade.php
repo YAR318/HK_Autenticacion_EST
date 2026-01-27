@@ -91,7 +91,7 @@
             <div class="text-center mt-6 space-y-2">
                 <p class="text-sm text-gray-400">
                     ¿Ya tienes cuenta?
-                    <a href="http://hk-filament.local.com/admin/login"
+                    <a href="http://hk-filament.local.com/"
                         class="text-[#ff5a5f] hover:text-white transition-colors font-medium">
                         Ir al Login
                     </a>
