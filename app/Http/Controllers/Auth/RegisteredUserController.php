@@ -45,6 +45,6 @@ class RegisteredUserController extends Controller
 
         Auth::login($user);
 
-        return redirect('http://hk-filament.local.com/admin/login');
+        return redirect(route('profile.edit'));
     }
 }
